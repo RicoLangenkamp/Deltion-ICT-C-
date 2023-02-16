@@ -1,0 +1,8 @@
+C:\Users\Rico Langenkamp\source\repos\Opdracht 1\Opdracht 1\bin\Debug\Opdracht 1.exe.config
+C:\Users\Rico Langenkamp\source\repos\Opdracht 1\Opdracht 1\bin\Debug\Opdracht 1.exe
+C:\Users\Rico Langenkamp\source\repos\Opdracht 1\Opdracht 1\bin\Debug\Opdracht 1.pdb
+C:\Users\Rico Langenkamp\source\repos\Opdracht 1\Opdracht 1\obj\Debug\Opdracht 1.csproj.AssemblyReference.cache
+C:\Users\Rico Langenkamp\source\repos\Opdracht 1\Opdracht 1\obj\Debug\Opdracht 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rico Langenkamp\source\repos\Opdracht 1\Opdracht 1\obj\Debug\Opdracht 1.csproj.CoreCompileInputs.cache
+C:\Users\Rico Langenkamp\source\repos\Opdracht 1\Opdracht 1\obj\Debug\Opdracht 1.exe
+C:\Users\Rico Langenkamp\source\repos\Opdracht 1\Opdracht 1\obj\Debug\Opdracht 1.pdb
